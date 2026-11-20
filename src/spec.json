@@ -33,5 +33,9 @@
         }
       }
     }
-  ]
+  ],
+  "theme": {
+    "palette": "terracotta",
+    "fonts": "istituzionale"
+  }
 }
